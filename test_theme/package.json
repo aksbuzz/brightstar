@@ -1,0 +1,22 @@
+{
+    "name": "104",
+    "displayName": "test_theme",
+    "description": "theme",
+    "version": "0.0.1",
+    "publisher": "aksbuzz",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "test_theme",
+                "uiTheme": "vs",
+                "path": "./themes/test_theme-color-theme.json"
+            }
+        ]
+    }
+}

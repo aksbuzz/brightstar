@@ -1,0 +1,22 @@
+{
+    "name": "brightstar",
+    "displayName": "brightstar",
+    "description": "A bright theme for vscode",
+    "version": "0.0.1",
+    "publisher": "aksbuzz",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bright Star",
+                "uiTheme": "vs",
+                "path": "./themes/Bright Star-color-theme.json"
+            }
+        ]
+    }
+}

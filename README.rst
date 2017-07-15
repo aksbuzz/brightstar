@@ -4,6 +4,9 @@ Brightstar
 
 A bright visual studio code theme.
 
+.. image:: https://ibb.co/g2cfNv
+    :align: center
+
 
 --------
 Install
